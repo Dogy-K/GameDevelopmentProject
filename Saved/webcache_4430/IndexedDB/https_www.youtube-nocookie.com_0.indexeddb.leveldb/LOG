@@ -1,0 +1,6 @@
+2024/10/14-23:24:19.504 eed4 Creating DB C:/Epic Games/UE_5.4/Project/Soulslike/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/10/14-23:24:19.518 eed4 Reusing MANIFEST C:/Epic Games/UE_5.4/Project/Soulslike/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/14-23:35:02.003 e8ac Level-0 table #5: started
+2024/10/14-23:35:02.013 e8ac Level-0 table #5: 1167 bytes OK
+2024/10/14-23:35:02.014 e8ac Delete type=0 #3
+2024/10/14-23:35:02.015 e8ac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
